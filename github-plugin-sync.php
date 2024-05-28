@@ -43,6 +43,7 @@ class GithubPluginSync
                 'sslverify' => true,
                 'requires' => '3.0',
                 'tested' => '3.3',
+                'readme' => 'README.md',
                 'access_token' => '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',
             );
 
